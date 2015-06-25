@@ -1,7 +1,7 @@
 # Birthday Braille
 
 A guide to the Braille alphabet and numbers, for GDP's birthday. 
-Sharing in case anyone else has the same hobby and has been wanting to learn.
+Sharing in case anyone else has the kinds of hobbies and has been wanting to learn Braille.
 
 *Sample:*
 
@@ -10,6 +10,10 @@ Sharing in case anyone else has the same hobby and has been wanting to learn.
 2) Her head is in the clouds; she's in ⠇⠁­-⠇⠁-­⠇⠁nd. 
 
 [Download full pdf, 7 pages](https://github.com/michelleful/BirthdayBraille/raw/master/BirthdayBraille.pdf)
+
+## Is this all of Braille?
+
+No, you'd still need to learn punctuation and contractions to really read Braille. Also, feeling the dots is very different from reading them, and I don't have good advice about how to do that.
 
 ## Rationale
 
@@ -21,4 +25,4 @@ Doing this was also a way to test out some of my language learning ideas, even t
 
 ## Feedback
 
-Open a Github issue or contact me on Twitter with comments, corrections, questions. @michelleful in both places.
+Open a Github issue or contact me on Twitter with comments, corrections, questions. I'm @michelleful in both places.
