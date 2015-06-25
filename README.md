@@ -16,7 +16,7 @@ Sharing in case anyone else has the same hobby and has been wanting to learn.
 Doing this was also a way to test out some of my language learning ideas, even though this was just teaching a writing system:
 
 * Make learning about *discovery* rather than using explicit instruction
-* Frequent repetition in different contexts to minimise boredom, rather than using static flashcards that get boring after a while
+* Frequent repetition in a variety of contexts, rather than using static flashcards that get stale fast
 * Encourage discovery of meta-patterns and extrapolation to unseen items
 
 ## Feedback
